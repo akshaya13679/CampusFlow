@@ -1,0 +1,12 @@
+# CampusFlow — TODO
+- [x] Responsive student planner interface
+- [x] Add/edit/delete/complete tasks
+- [x] Category and priority labels
+- [x] Search and sorting
+- [x] Dashboard progress statistics
+- [x] Dark mode
+- [x] Student activity quick-add buttons
+- [ ] Test on mobile and desktop browsers
+- [ ] Publish with GitHub Pages
+- [ ] Add a screenshot to README
+- [ ] Optional future feature: calendar and reminders
