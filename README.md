@@ -24,3 +24,4 @@ Open `index.html` in a modern browser. No installation or server is needed.
 5. Wait for deployment and open the URL shown in the Pages section.
 
 **Note:** Tasks are saved in the browser on the device where you use the site. They do not sync between devices or users because this version has no backend.
+this is preview link https://akshaya13679.github.io/CampusFlow/
